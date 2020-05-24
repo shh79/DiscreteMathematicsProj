@@ -1,0 +1,11 @@
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\bin\Debug\netcoreapp3.1\DiscreteMathematicsProj.exe
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\bin\Debug\netcoreapp3.1\DiscreteMathematicsProj.deps.json
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\bin\Debug\netcoreapp3.1\DiscreteMathematicsProj.runtimeconfig.json
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\bin\Debug\netcoreapp3.1\DiscreteMathematicsProj.runtimeconfig.dev.json
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\bin\Debug\netcoreapp3.1\DiscreteMathematicsProj.dll
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\bin\Debug\netcoreapp3.1\DiscreteMathematicsProj.pdb
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\obj\Debug\netcoreapp3.1\DiscreteMathematicsProj.csprojAssemblyReference.cache
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\obj\Debug\netcoreapp3.1\DiscreteMathematicsProj.AssemblyInfoInputs.cache
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\obj\Debug\netcoreapp3.1\DiscreteMathematicsProj.AssemblyInfo.cs
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\obj\Debug\netcoreapp3.1\DiscreteMathematicsProj.dll
+E:\VS code PROJ\DiscreteMathematicsProj\DiscreteMathematicsProj\obj\Debug\netcoreapp3.1\DiscreteMathematicsProj.pdb
